@@ -8,7 +8,7 @@ for(i = 0; i < matrix.length; i++) {
         [].push(...matrix[i]);
     }
     else {
-        [].push(...matrix[i].reverse())l
+        [].push(...matrix[i].reverse());
     }
 }
   return [];
